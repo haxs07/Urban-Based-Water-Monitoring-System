@@ -56,7 +56,7 @@ Communication: IoT (MQTT / HTTP / GSM)
 
 Clone the repository:
 
-git clone https://github.com/your-username/urban-water-monitoring-system.git
+git clone https://github.com/haxs07/urban-water-monitoring-system.git
 
 
 Configure sensor connections and microcontroller code
@@ -103,4 +103,4 @@ For queries or collaboration:
 
 Email: vanivasan444@gmail.com
 
-GitHub: https://github.com/imhaxs
+GitHub: https://github.com/haxs07
